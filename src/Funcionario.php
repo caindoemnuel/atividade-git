@@ -3,5 +3,6 @@
 class Funcionario{
     private $id;
     private $nome;
+    private $salario;
 }
 ?>
